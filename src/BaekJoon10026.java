@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 
 /**
  * 백준 적록색약 (https://www.acmicpc.net/problem/10026)
- * 그림이 입력되었을떼 적록색약인 사람이 봤을 때, 아닌 사람이 봤을 때 구역의 수 출력
+ * 그림이 입력되었을때 적록색약인 사람이 봤을 때, 아닌 사람이 봤을 때 구역의 수 출력
  * @author hodu
  *
  */
